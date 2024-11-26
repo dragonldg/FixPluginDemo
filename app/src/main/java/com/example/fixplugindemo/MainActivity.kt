@@ -29,6 +29,8 @@ class MainActivity : ComponentActivity() {
             }
         }
         Log.e("douglas","添加日志")
+        Log.e("douglas","添加日志")
+        Log.e("douglas","添加日志")
     }
 }
 
